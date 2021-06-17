@@ -2,7 +2,7 @@
 
 ![Mabel's GitHub stats](https://github-readme-stats.vercel.app/api?username=mabelene&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-![Testing!](https://github-readme-stats.vercel.app/api/pin/?username=LemonFace0309&repo=Study-Space)]
+![Testing!](https://github-readme-stats.vercel.app/api/pin/?username=LemonFace0309&repo=Study-Space&theme=buefy)]
 
 <!--
 **mabelene/mabelene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
