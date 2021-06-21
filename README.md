@@ -1,7 +1,6 @@
 ### Hi there, I'm Mabel 👋
 
-🌱 I’m currently learning and improving on React, Material UI and Figma
-🔭 I’m currently creating a website and building a fun project with my friends :) 
+<p> 🌱 I’m currently learning and improving on React, Material UI and Figma </p>
 
 ![Mabel's GitHub stats](https://github-readme-stats.vercel.app/api?username=mabelene&count_private=true&show_icons=true&hide=stars&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
