@@ -2,6 +2,7 @@
 <!--
 ![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=mabelene-mabelene&color=55acb7&style=for-the-badge&logo=Github)
 -->
+
 <p> 🌱 I’m currently learning and improving on React, Material UI and Figma </p>
 
 
@@ -25,4 +26,20 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+# Top 5 Badges That Will Take Your GitHub Repository to the Next Level
+## 1. GitHub Stats
+## 2. Most Used Languages
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mabelene&theme=blue-green)
+## 3. Contributors Badge
+![Your Repository's Stats](https://contrib.rocks/image?repo=mabelene/mabelene)
+## 5. Profile View Counter
+![Profile View Counter](https://komarev.com/ghpvc/?username=mabelene)
+### Repository View Counter - HITS
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/mabelene)
 -->
+
+### Thanks for stopping by! Enjoy this random generated joke 😊
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
