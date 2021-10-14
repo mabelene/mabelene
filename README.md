@@ -1,7 +1,9 @@
 ### Hi there, I'm Mabel 👋
-<!--
+
+<p> Visitors since Oct 14th: </p>
+
 ![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=mabelene-mabelene&color=55acb7&style=for-the-badge&logo=Github)
--->
+
 
 <p> 🌱 I’m currently learning and improving on React, JS, Python, Material UI and Figma </p>
 
