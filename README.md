@@ -5,7 +5,9 @@
 ![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=mabelene-mabelene&color=55acb7&style=for-the-badge&logo=Github)
 
 
-<p> 🌱 I’m currently learning and improving on React, JS, Python, Material UI and Figma </p>
+<p> 🌱 I’m currently improving on Python, React, and Figma </p>
+<p> 🔭 I’m currently learning about Algorithms and Quantiative Trading </p>
+
 
 
 ![Mabel's GitHub stats](https://github-readme-stats.vercel.app/api?username=mabelene&count_private=true&show_icons=true&hide=stars&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
