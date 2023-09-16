@@ -10,7 +10,8 @@
 
 
 
-![Mabel's GitHub stats](https://github-readme-stats.vercel.app/api?username=mabelene&count_private=true&show_icons=true&hide=stars&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+<!-- ![Mabel's GitHub stats](https://github-readme-stats.vercel.app/api?username=mabelene&count_private=true&show_icons=true&hide=stars&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+-->
 
 ![Testing!](https://github-readme-stats.vercel.app/api/pin/?username=LemonFace0309&repo=Study-Space&theme=buefy)
 
