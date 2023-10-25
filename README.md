@@ -6,7 +6,7 @@
 
 
 <p> 🌱 I’m currently improving on Python, React, and Figma </p>
-<p> 🔭 I’m currently learning about Algorithms and Quantiative Trading </p>
+<p> 🔭 I’m currently learning about Algorithms, ML and Quantiative Trading </p>
 
 
 
