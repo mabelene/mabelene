@@ -1,6 +1,6 @@
 ### Hi there, I'm Mabel 👋
 
-### <p>SWE Intern @ Meta | Prev @ AWS, Rippling, Microsoft, Konrad Group, TD | TreeHacks (Stanford's Hackathon) Winner | CS @ UWaterloo</p>
+### <p>SWE Intern @ Meta | TreeHacks (Stanford's Hackathon) Winner | CS @ UWaterloo</p>
 
 <p> 🌱 Tinkering with Python, C++, React, and Figma </p>
 <p> 🔭 I’m currently learning about Algorithms, ML and Quantiative Trading </p>
