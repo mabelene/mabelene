@@ -1,8 +1,8 @@
 ### Hi there, I'm Mabel 👋
 
-### <p>SDE Intern @ AWS | Prev @ Konrad Group, TD | TreeHacks (Stanford's Hackathon) Winner | CS @ UWaterloo</p>
+### <p>SDE Intern @ Meta | Prev @ AWS, Rippling, Microsoft, Konrad Group, TD | TreeHacks (Stanford's Hackathon) Winner | CS @ UWaterloo</p>
 
-<p> 🌱 Improving on Python, C++, React, and Figma </p>
+<p> 🌱 Tinkering with Python, C++, React, and Figma </p>
 <p> 🔭 I’m currently learning about Algorithms, ML and Quantiative Trading </p>
 
 <!-- ![Mabel's GitHub stats](https://github-readme-stats.vercel.app/api?username=mabelene&count_private=true&show_icons=true&hide=stars&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
